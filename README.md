@@ -1,2 +1,2 @@
-# C-lestial-nou
+# Celestial-nou
 Cours informatique 
